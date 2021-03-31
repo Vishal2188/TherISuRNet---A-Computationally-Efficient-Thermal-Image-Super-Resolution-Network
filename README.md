@@ -1,4 +1,5 @@
 **TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network** - 
+
 Download the
 [Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
 
@@ -6,7 +7,7 @@ Download the
 <img src = "network design/ThermalSR.png" width = 800>
 
 ## Residual network:
-<img src = "network design/ResBlock.png" width = 500>
+<img src = "network design/ResBlock.png" width = 600>
 
 ## Usage 
 
@@ -96,10 +97,10 @@ Download the testing LR and HR images from here
 The SR results of the TherISuRNet model can be downloaded from [here.](https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing)
 
 ### Computationally Efficiency Comparison:
-<img src = "/SSIMParameters.png" width = 900>
+<img src = "network design/SSIMParameters.png" width = 900>
 
 ### Quantitative Comparison:
-<img src = "/QuantitativeComparison.png" width = 700>
+<img src = "network design/QuantitativeComparison.png" width = 700>
 
 ## References
 1) Rafael E. Rivadeneira, Angel D. Sappa, and Boris X. Vintimilla. Thermal image super-resolution: a novel architecture and dataset. In International Conference on Computer Vision Theory and Applications, pages 1–2, 2020.
