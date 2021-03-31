@@ -1,5 +1,5 @@
 # TherISuRNet in Tensorflow 
-This is an official implementation of the our CVPRW 2020 paper "[TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)" using the Tensorflow.
+This is an official implementation of the our CVPRW 2020 paper "[TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)" using the Tensorflow (version 1.12.0).
 
 ## Network design:
 <img src = "network design/ThermalSR.png" width = 800>
@@ -120,3 +120,5 @@ V. Chudasama et al., "TherISuRNet - A Computationally Efficient Thermal Image Su
      year={2020},  
      pages={388-397},  
      doi={10.1109/CVPRW50498.2020.00051}}
+
+**We are thankful to itsuki8914 for their ESRGAN code in tensorflow on which we made this implementation. (https://github.com/itsuki8914/ESRGAN-TensorFlow)**
