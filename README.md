@@ -7,7 +7,7 @@ Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super
 <br>
 ## Residual network:
 <br><br>
-<img src = "/ResBlock.png" width = 800>
+<img src = "/ResBlock.png" width = 500>
 <br>
 ## Usage 
 
