@@ -48,7 +48,6 @@ Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super
 ```
 2. Download the "imagenet-vgg-verydeep-19.mat" file from 
 [https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing] 
-and put it inside the source code location.
 ```
 
 ```
@@ -85,13 +84,13 @@ example:
 python pred.py test
 ```
 
-Testing LR and HR images from 
+Download the testing LR and HR images from here 
 
-PBVS Validation dataset : [https://drive.google.com/file/d/1-0zhyiseHB5B9ha41zIHggUpUJ5BAHJx/view?usp=sharing].
+[PBVS Validation dataset :](https://drive.google.com/file/d/1-0zhyiseHB5B9ha41zIHggUpUJ5BAHJx/view?usp=sharing)
 
-FLIR Validation dataset : [https://drive.google.com/file/d/1urP-f3EhehwqY-kjSQkVc0qWgTwd9fzC/view?usp=sharing]
+[FLIR Validation dataset :](https://drive.google.com/file/d/1urP-f3EhehwqY-kjSQkVc0qWgTwd9fzC/view?usp=sharing)
 
-KAIST Validation dataset : [https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1YgqoauvZ1_v4Gx/view?usp=sharing]
+[KAIST Validation dataset :](https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1YgqoauvZ1_v4Gx/view?usp=sharing)
 
 ## Result examples
 
