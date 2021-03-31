@@ -95,8 +95,8 @@ KAIST Validation dataset : [https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1Y
 
 ## Result examples
 
-The SR results of the TherISuRNet model can be downloaded from here. [https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing]
+The SR results of the TherISuRNet model can be downloaded from [here.](https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing)
 
-### Computationally Effiency Comparison
+### Computationally Efficiency Comparison
 
 ![parameter](SSIMParameters.png)
