@@ -102,4 +102,7 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 
 ## References
 1) Rafael E. Rivadeneira, Angel D. Sappa, and Boris X. Vintimilla. Thermal image super-resolution: a novel architecture and dataset. In International Conference on Computer Vision Theory and Applications, pages 1–2, 2020.
-2) Purbaditya Bhattacharya, J¨org Riechen, and Udo Z¨olzer. Infrared image enhancement in maritime environment with convolutional neural networks. In VISIGRAPP, 2018.
+2) Purbaditya Bhattacharya, Jorg Riechen, and Udo Zolzer. Infrared image enhancement in maritime environment with convolutional neural networks. In VISIGRAPP, 2018.
+
+## If you use this repositary, then please cite our paper
+@INPROCEEDINGS{9150703,  author={V. {Chudasama} and H. {Patel} and K. {Prajapati} and K. {Upla} and R. {Ramachandra} and K. {Raja} and C. {Busch}},  booktitle={2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},   title={TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network},   year={2020},  volume={},  number={},  pages={388-397},  doi={10.1109/CVPRW50498.2020.00051}}
