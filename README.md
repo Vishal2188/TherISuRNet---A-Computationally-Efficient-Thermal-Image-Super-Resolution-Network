@@ -1,7 +1,7 @@
 # TherISuRNet in Tensorflow 
 This is an official implementation of the our CVPRW 2020 paper "[TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)" using the Tensorflow (version 1.12.0).
 
-Authors: **Vishal Chudasama**, Heena Patel, Kalpesh Prajapati, Kishor Upla, Raghavendra Ramacharya, Kiran Raja, Christoph Busch
+Authors: **Vishal Chudasama**, Heena Patel, Kalpesh Prajapati, Kishor Upla, Raghavendra Ramachandra, Kiran Raja, Christoph Busch
 
 ## Network design:
 <img src = "network design/ThermalSR.png" width = 800>
