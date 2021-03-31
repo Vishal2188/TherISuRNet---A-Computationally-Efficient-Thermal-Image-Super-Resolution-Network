@@ -4,11 +4,11 @@ Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super
 ## Network desing of the proposed TherISuRNet model:
 <br>
 <img src = "/ThermalSR.png" width = 800>
-<br>
+
 ## Residual network:
 <br>
 <img src = "/ResBlock.png" width = 500>
-<br>
+
 ## Usage 
 
 1. Download dataset from [PBVS Training dataset.](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
