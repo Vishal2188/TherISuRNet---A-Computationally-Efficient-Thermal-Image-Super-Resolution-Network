@@ -1,11 +1,12 @@
-**TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network** - Download the
+**TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network** - 
+Download the
 [Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
 
 ## Network design of the proposed TherISuRNet model:
 <img src = "network design/ThermalSR.png" width = 800>
 
 ## Residual network:
-<img src = "/network designResBlock.png" width = 500>
+<img src = "network design/ResBlock.png" width = 500>
 
 ## Usage 
 
