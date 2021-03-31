@@ -94,8 +94,12 @@ Download the testing LR and HR images from here
 
 The SR results of the TherISuRNet model can be downloaded from [here.](https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing)
 
-### Computationally Efficiency Comparison
+### Computationally Efficiency Comparison:
 <img src = "/SSIMParameters.png" width = 900>
 
-### Quantitative Comparison
+### Quantitative Comparison:
 <img src = "/QuantitativeComparison.png" width = 700>
+
+## References
+1) Rafael E. Rivadeneira, Angel D. Sappa, and Boris X. Vintimilla. Thermal image super-resolution: a novel architecture and dataset. In International Conference on Computer Vision Theory and Applications, pages 1–2, 2020.
+2) Purbaditya Bhattacharya, J¨org Riechen, and Udo Z¨olzer. Infrared image enhancement in maritime environment with convolutional neural networks. In VISIGRAPP, 2018.
