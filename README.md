@@ -104,7 +104,7 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 2) Purbaditya Bhattacharya, Jorg Riechen, and Udo Zolzer. Infrared image enhancement in maritime environment with convolutional neural networks. In VISIGRAPP, 2018.
 3) Mechrez, Roey and Talmi, Itamar and Zelnik-Manor, Lihi, The Contextual Loss for Image Transformation with Non-Aligned Data, arXiv preprint arXiv:1803.02077, 2018.
 
-## If you found useful this repositary, then please cite our paper in your publications as
+## If you use this repositary, then please cite our paper in your publications as
 V. Chudasama et al., "TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 388-397, doi: 10.1109/CVPRW50498.2020.00051.
 
 **Bibtex file:**
