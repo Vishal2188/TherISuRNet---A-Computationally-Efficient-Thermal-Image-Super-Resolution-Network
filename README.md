@@ -98,8 +98,8 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 
 ### Computationally Efficiency Comparison
 <br>
-<img src = "/SSIMParameters.png" width = 500>
+<img src = "/SSIMParameters.png" width = 800>
 
 ### Quantitative Comparison
 <br>
-<img src = "/QuantitativeComparison.png" width = 500>
+<img src = "/QuantitativeComparison.png" width = 800>
