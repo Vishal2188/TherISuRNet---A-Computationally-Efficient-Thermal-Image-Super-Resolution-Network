@@ -6,7 +6,7 @@ Download the
 ## Network design of the proposed TherISuRNet model:
 <img src = "network design/ThermalSR.png" width = 800>
 
-## Residual network:
+## Residual network (ResBlock):
 <img src = "network design/ResBlock.png" width = 600>
 
 ## Usage 
