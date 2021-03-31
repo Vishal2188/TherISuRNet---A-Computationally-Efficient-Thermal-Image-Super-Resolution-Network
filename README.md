@@ -5,7 +5,7 @@ Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super
 
 ![Main Architecture](ThermalSR.png)
 <br><br>
-<img scr = "ThermalSR.png" width = 200>
+<img src = "/ThermalSR.png" width = 200>
 <br>
 ## Residual network:
 
