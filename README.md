@@ -1,4 +1,4 @@
-Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network - 
+**TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network** - Download the
 [Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
 
 ## Network desing of the proposed TherISuRNet model:
@@ -108,6 +108,7 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 V. Chudasama et al., "TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 388-397, doi: 10.1109/CVPRW50498.2020.00051.
 
 **Bibtex file:**
+
 @INPROCEEDINGS{TherISuRNet,  
      author={V. {Chudasama} and H. {Patel} and K. {Prajapati} and K. {Upla} and R. {Ramachandra} and K. {Raja} and C. {Busch}},  
      booktitle={2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},   
