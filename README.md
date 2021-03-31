@@ -1,11 +1,11 @@
 Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network - 
 [Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
 
-The network Desing of the proposed TherISuRNet model is depicted here.
+## Network desing of the proposed TherISuRNet model:
 
 ![Main Architecture](ThermalSR.png)
 
-The introduced residual network is illustrated here.
+## Residual network:
 
 ![ResBlock Architecture](ResBlock.png)
 
@@ -96,3 +96,6 @@ KAIST Validation dataset : [https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1Y
 ## Result examples
 
 The SR results of the TherISuRNet model can be downloaded from here. [https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing]
+
+# Computationally Effiency Comparison
+![parameter]{SSIM vs. Parameter.png}
