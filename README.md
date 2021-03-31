@@ -102,4 +102,4 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 
 ### Quantitative Comparison
 
-![Quantitative](Quantitative Comparison.png)
+![Quantitative](QuantitativeComparison.png)
