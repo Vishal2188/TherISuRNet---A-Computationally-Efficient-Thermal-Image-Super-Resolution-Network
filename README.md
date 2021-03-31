@@ -44,7 +44,8 @@ Download the
 ...
 ```
 
-2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. (Note - Only if you want to use Contextual loss [3] in training process)
+2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. 
+(Note - Only if you want to use Contextual loss [3] in training process)
 
 
 3. Train TherISuRNet model.
