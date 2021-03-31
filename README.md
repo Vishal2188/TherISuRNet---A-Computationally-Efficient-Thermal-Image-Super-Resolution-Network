@@ -1,7 +1,7 @@
 # TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network 
 
 Download the
-[Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
+[Paper - CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf) 
 
 ## Network design of the proposed TherISuRNet model:
 <img src = "network design/ThermalSR.png" width = 800>
@@ -12,8 +12,6 @@ Download the
 ## Usage 
 
 1. Download dataset from [PBVS Training dataset.](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
-
-  download the following four.
 
 * Train Data bicubic downscaling x4 (LR images)
 * Train Data (HR images)
@@ -46,8 +44,7 @@ Download the
 ...
 
 ```
-2. Download the "imagenet-vgg-verydeep-19.mat" file from 
-[https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing] 
+2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. 
 ```
 
 ```
