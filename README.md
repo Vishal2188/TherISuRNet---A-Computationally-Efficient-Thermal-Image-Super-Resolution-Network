@@ -11,7 +11,7 @@ Download the
 
 ## Usage 
 
-1. Download dataset from [PBVS Training dataset.](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
+1. Download the [PBVS Training dataset.](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
 
 * Train Data bicubic downscaling x4 (LR images)
 * Train Data (HR images)
@@ -43,9 +43,7 @@ Download the
 ├── model.py
 ...
 
-```
 2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. (Note - Only if you want to use Contextual loss [3] in training process)
-```
 
 ```
 3. Train TherISuRNet model.
