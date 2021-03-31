@@ -55,7 +55,15 @@ python main.py
 
 4. After training, inference can be performed.
 
-Put the images you want to evaluate into a test folder and run the following.
+Download the testing LR and HR images from here 
+
+[PBVS Validation dataset :](https://drive.google.com/file/d/1-0zhyiseHB5B9ha41zIHggUpUJ5BAHJx/view?usp=sharing) 50 number of images [1]
+
+[FLIR Validation dataset :](https://drive.google.com/file/d/1urP-f3EhehwqY-kjSQkVc0qWgTwd9fzC/view?usp=sharing) 1366 number of images
+
+[KAIST Validation dataset :](https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1YgqoauvZ1_v4Gx/view?usp=sharing) 500 preprocessed images
+
+Put above test images and/or your own test images that you want to evaluate into a test folder
 
 example:
  ```
@@ -75,18 +83,16 @@ example:
 │     └── smallpic.png
 ...
 ```
-
+ and run the following command.
 ```
 python pred.py test
 ```
 
-Download the testing LR and HR images from here 
+5. To calculate the corresponding PSNR and SSIM measures
 
-[PBVS Validation dataset :](https://drive.google.com/file/d/1-0zhyiseHB5B9ha41zIHggUpUJ5BAHJx/view?usp=sharing) 50 number of images [1]
-
-[FLIR Validation dataset :](https://drive.google.com/file/d/1urP-f3EhehwqY-kjSQkVc0qWgTwd9fzC/view?usp=sharing) 1366 number of images
-
-[KAIST Validation dataset :](https://drive.google.com/file/d/1QPBnbjbLIubw_4xni1YgqoauvZ1_v4Gx/view?usp=sharing) 500 preprocessed images
+```
+python PSNR_SSIM.py
+```
 
 ## Result examples
 
