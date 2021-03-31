@@ -97,9 +97,9 @@ Download the testing LR and HR images from here
 The SR results of the TherISuRNet model can be downloaded from [here.](https://drive.google.com/file/d/1JbkX842TsWZcbxecu7Wr7rVOo-C8Rd2K/view?usp=sharing)
 
 ### Computationally Efficiency Comparison
-
-![parameter](SSIMParameters.png)
+<br>
+<img src = "/SSIMParameters.png" width = 500>
 
 ### Quantitative Comparison
-
-![Quantitative](QuantitativeComparison.png)
+<br>
+<img src = "/QuantitativeComparison.png" width = 500>
