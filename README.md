@@ -123,4 +123,4 @@ V. Chudasama et al., "TherISuRNet - A Computationally Efficient Thermal Image Su
      pages={388-397},  
      doi={10.1109/CVPRW50498.2020.00051}}
 
-**We are thankful to itsuki8914 for their ESRGAN code in tensorflow on which we made this implementation. (https://github.com/itsuki8914/ESRGAN-TensorFlow)**
+We are thankful to itsuki8914 for their ESRGAN code in tensorflow on which we made this implementation. (https://github.com/itsuki8914/ESRGAN-TensorFlow)
