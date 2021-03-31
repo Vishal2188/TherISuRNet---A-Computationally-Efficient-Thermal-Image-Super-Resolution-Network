@@ -44,7 +44,7 @@ Download the
 ...
 
 ```
-2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. 
+2. Download the [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1tMZ59K4wTunDnkxNBREXR_c00hyMwyWY/view?usp=sharing) file. (Note - Only if you want to use Contextual loss [3] in training process)
 ```
 
 ```
@@ -102,6 +102,7 @@ The SR results of the TherISuRNet model can be downloaded from [here.](https://d
 ## References
 1) Rafael E. Rivadeneira, Angel D. Sappa, and Boris X. Vintimilla. Thermal image super-resolution: a novel architecture and dataset. In International Conference on Computer Vision Theory and Applications, pages 1–2, 2020.
 2) Purbaditya Bhattacharya, Jorg Riechen, and Udo Zolzer. Infrared image enhancement in maritime environment with convolutional neural networks. In VISIGRAPP, 2018.
+3) Mechrez, Roey and Talmi, Itamar and Zelnik-Manor, Lihi, The Contextual Loss for Image Transformation with Non-Aligned Data, arXiv preprint arXiv:1803.02077, 2018.
 
 ## If you found useful this repositary, then please cite our paper in your publications as
 V. Chudasama et al., "TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 388-397, doi: 10.1109/CVPRW50498.2020.00051.
