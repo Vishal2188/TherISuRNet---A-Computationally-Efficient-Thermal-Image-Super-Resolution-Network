@@ -3,9 +3,8 @@ Download the paper TherISuRNet - A Computationally Efficient Thermal Image Super
 
 ## Network desing of the proposed TherISuRNet model:
 
-![Main Architecture](ThermalSR.png)
 <br><br>
-<img src = "/ThermalSR.png" width = 200>
+<img src = "/ThermalSR.png" width = 800>
 <br>
 ## Residual network:
 
