@@ -56,7 +56,7 @@ python main.py
 
 4. After training, inference can be performed.
 
-Download the testing LR and HR images from here 
+Download the testing LR and HR images from here (Note: Bicubic Interpolated Images are also attached herewith) 
 
 [PBVS Validation dataset :](https://drive.google.com/file/d/1-0zhyiseHB5B9ha41zIHggUpUJ5BAHJx/view?usp=sharing) 50 number of images [1]
 
