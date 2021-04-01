@@ -18,7 +18,7 @@ Authors: **Vishal Chudasama**, Heena Patel, Kalpesh Prajapati, Kishor Upla, Ragh
 * Validation Data bicubic downscaling x4 (LR images)
 * Validation Data (HR images)
 
-  Put the downloaded dataset in the train_lr, train_hr, val_lr and val_hr folders.
+  Put the downloaded dataset in the train_lr, train_hr, val_lr and val_hr folders
   like this
 ```
 ...
