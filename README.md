@@ -1,5 +1,5 @@
 # TherISuRNet in Tensorflow 
-This is an official implementation of the our CVPRW 2020 paper "[TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)" using the Tensorflow (version 1.12.0).
+This is an official implementation of the our CVPRW 2020 paper "TherISuRNet - A Computationally Efficient Thermal Image Super-Resolution Network" using the Tensorflow (version 1.12.0). Paper can be downloaded from [here](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Chudasama_TherISuRNet_-_A_Computationally_Efficient_Thermal_Image_Super-Resolution_Network_CVPRW_2020_paper.pdf)
 
 Authors: **Vishal Chudasama**, Heena Patel, Kalpesh Prajapati, Kishor Upla, Raghavendra Ramachandra, Kiran Raja, Christoph Busch
 
@@ -11,7 +11,7 @@ Authors: **Vishal Chudasama**, Heena Patel, Kalpesh Prajapati, Kishor Upla, Ragh
 
 ## Usage 
 
-1. Download the [PBVS Training dataset.](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
+1. Download the PBVS Training dataset from [here](https://drive.google.com/file/d/17kZOAQqRBVH7o4S87RtD90-P51iWeDFV/view?usp=sharing)
 
 * Train Data bicubic downscaling x4 (LR images)
 * Train Data (HR images)
