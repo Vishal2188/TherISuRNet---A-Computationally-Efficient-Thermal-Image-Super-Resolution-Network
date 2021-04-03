@@ -72,7 +72,7 @@ def main():
     start = time.time()
 
     x = tf.placeholder(tf.float32, [bs, img_size, img_size, 3])
-    t = tf.placeholder(tf.float32, [bs, img_size*3, img_size*3, 3])
+    t = tf.placeholder(tf.float32, [bs, img_size*4, img_size*4, 3])
     lr = tf.placeholder(tf.float32)
 
     generator = Generator()
@@ -146,7 +146,7 @@ def main():
             Y_ = tileImage(out[:4])
             Z_ = tileImage(batch_images_t[:4])
 
-            X_ = cv2.resize(X_,(img_size*2*3,img_size*2*3),interpolation = cv2.INTER_CUBIC)
+            X_ = cv2.resize(X_,(img_size*2*4,img_size*2*4),interpolation = cv2.INTER_CUBIC)
             
             X_ = (X_ + 1)*127.5
             Y_ = (Y_ + 1)*127.5
