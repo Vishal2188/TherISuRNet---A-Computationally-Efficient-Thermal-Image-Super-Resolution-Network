@@ -112,7 +112,6 @@ class Generator:
 
       with tf.variable_scope('Upsamplingconv_stage_1'):
         xUP = self.Upsample2xBlock(x4, kernel_size=3, filters=64, strides = 1)
-        xUP = self.Upsample2xBlock(xUP, kernel_size=3, filters=64, strides = 1)
         
       xUP = tf.layers.conv2d(xUP, kernel_size=1, filters=64, strides=1, padding='same', use_bias=False)
       xUP = self.pelu(xUP)
